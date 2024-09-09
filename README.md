@@ -25,7 +25,7 @@ Favor de instalar las dependencias necesarias. Ejecuta con **python** o **python
 **Argumentos opcionales**
 
 + `--s`: Indica si se quiere mostrar la imagen al finalizar.
-+ `--f` \<Valor\>: Establece el factor de mezcla de las imagenes (de la primer imagen a la segunda). Este tiene que ser un valor entre `0.0` y `1.0`, el valor por defecto es `0.5`.
++ `--f`: Establece el factor de mezcla de las imagenes (de la primer imagen a la segunda). Este tiene que ser un valor entre `0.0` y `1.0`, el valor por defecto es `0.5`.
 
 # Ejemplos
 
