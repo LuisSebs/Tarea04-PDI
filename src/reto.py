@@ -1,6 +1,4 @@
 import random
-import numpy as np
-import matplotlib.pyplot as plt
 from PIL import Image, ImageStat
 
 def promedio(r, g, b):
