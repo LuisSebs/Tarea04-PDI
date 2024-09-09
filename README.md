@@ -43,7 +43,15 @@ python3 main.py ./imgs/birds.jpg ./imgs/moon2.jpg ./blending2.jpg --s --f 0.5
 python3 main.py ./imgs/galaxy.jpg ./imgs/tree2.jpg ./blending3.jpg --s --f 0.5
 ```
 
+# Reto Taza Morsa: Remover marca de agua
 
+Adicionalmente se añade a esta tarea el reto de eliminar la marca de agua. Ejecuta con **python** o **python3** el archivo `reto.py`, se eliminará la marca de agua de las imagenes solicitadas para el reto:
+
++ `einvigi_10_halldor_1.jpg`
++ `einvigi_10_halldor_6.jpg`
++ `einvigi_10_halldor_8.jpg`
+
+Una vez terminado de ejecutar el programa se mostraran las imagenes sin la marca de agua.
 
 
 
